@@ -2,6 +2,8 @@
 <img src="https://i.ibb.co/hFChBTV/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" align="center" style="width: 100%" />
 </div>  
   
+  
+<h4>JUNIOR WEB DEVELOPER || MERN STACK DEVELOPER</h4>  
 
 ### <div align="center">Hello there!
 I work as a Junior Web Developer. I have extensive knowledge in this area. For the past 1+ year , I have been working on web development. I've worked on various of projects to develop my expertise in this area. I also completed a professional course from a reputable institution. where I gained knowledge in a variety of recent technologies, which are right now the most required to be considered of web development. Lastly, I want to develop myself at the maximum level of Web Development</div> 
