@@ -26,7 +26,7 @@ Thanks a lot to considering some times to read my bio</div>
 <a href="https://twitter.com/BayezidMostafa" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bayezid-mostafa/" target="_blank">
+<a href="https://www.linkedin.com/in/bayezid-mostafa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/bayezid951.321/" target="_blank">
