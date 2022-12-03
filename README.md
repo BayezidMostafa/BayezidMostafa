@@ -6,7 +6,7 @@
 <h4 align="center">JUNIOR WEB DEVELOPER || MERN STACK DEVELOPER</h4>  
 
 ### <div align="center">Hello there!
-I work as a Junior Web Developer. I have extensive knowledge in this area. For the past 1+ year , I have been working on web development. I've worked on various of projects to develop my expertise in this area. I also completed a professional course from a reputable institution. where I gained knowledge in a variety of recent technologies, which are right now the most required to be considered of web development. Lastly, I want to develop myself at the maximum level of Web Development</div> 
+As a MERN Stack, I developed myself. I have a good understanding of this technology. I have worked on several projects to hone my expertise in this MERN Stack development. I also have a year's worth of expertise with HTML5, CSS3, Tailwind CSS, Bootstrap, React Bootstrap, and a ton of component libraries for Tailwind CSS. Moreover, I successfully completed a professional course from a reputable organization where I learned about a significant number of modern technologies, some of which are now the most important to consider for web development. Lastly, my goal is to get ready for the upcoming web technologies.</div> 
 
   
 
