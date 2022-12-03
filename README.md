@@ -11,7 +11,10 @@ As a MERN Stack, I developed myself. I have a good understanding of this technol
   
 
 - 🔭 Currently I'm working on MERN Satack Projects 
-  
+- 🌱 I’m currently learning TypeScript, Next.js, React State Management
+- 💬 Ask me about React JS
+- 📫 How to reach me bayezid.mostafa.1@gmail.com
+- 👨‍💻 All of my projects are available at "Portfolio Loading..."
   
 
 
