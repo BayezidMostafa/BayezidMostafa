@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/hFChBTV/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" align="center" style="width: 100%" />
+<img src="https://images.ctfassets.net/hrltx12pl8hq/5orfKJqG0N9UopDnOVn2BW/1a2e92f5474911a4631722a6e70e7c5f/ezgif-5-44fa6284e5f3.gif" align="center" style="width: 100%" />
 </div>  
   
   
