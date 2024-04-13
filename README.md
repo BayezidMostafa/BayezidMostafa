@@ -39,6 +39,8 @@ As a Front-end developer, I developed myself. I have a good understanding of Bac
 </a>  
 </div>  
 
-![](https://github-readme-stats.vercel.app/api?username=BayezidMostafa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BayezidMostafa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BayezidMostafa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
