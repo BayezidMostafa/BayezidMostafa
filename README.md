@@ -3,19 +3,17 @@
 </div>  
   
   
-<h4 align="center">JUNIOR WEB DEVELOPER || MERN STACK DEVELOPER</h4>  
+<h4 align="center">FRONT-END DEVELOPER || MERN STACK DEVELOPER</h4>  
 
 ### <div align="center">Hello there!
-As a MERN Stack, I developed myself. I have a good understanding of this technology. I have worked on several projects to hone my expertise in this MERN Stack development. I also have a year's worth of expertise with HTML5, CSS3, Tailwind CSS, Bootstrap, React Bootstrap, and a ton of component libraries for Tailwind CSS. Moreover, I successfully completed a professional course from a reputable organization where I learned about a significant number of modern technologies, some of which are now the most important to consider for web development. Lastly, my goal is to get ready for the upcoming web technologies.</div> 
+As a Front-end developer, I developed myself. I have a good understanding of Back-end technology besides Front-end technology such as Node JS, Express JS, MongoDB, Mongoose, and Firebase. I have worked on several projects to hone my expertise in Front-end and MERN Stack development. I also have 1.5 years of expertise with HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React JS, Next JS, and Firebase. My goal is to get ready for the upcoming web technologies which is related of my tech stack.</div> 
 
   
 
-- 🔭 Currently I'm working on MERN Satack Projects 
-- 🌱 I’m currently learning TypeScript, Next.js, React State Management
-- 💬 Ask me about React JS
-- 📫 How to reach me bayezid.mostafa.1@gmail.com
-- 👨‍💻 All of my projects are available at "Portfolio Loading..."
-  
+- 🔭 Currently I'm working on Front-End based Projects 
+- 🌱 I’m currently learning MySQL, PostgreSQL, AWS
+- 💬 Ask me about React JS, Next JS, JavaScript, TypeScript
+- 📫 How to reach me bayezid.mostafa.1@gmail.com  
 
 
 # 💻 Tech Stack:
