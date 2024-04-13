@@ -38,3 +38,7 @@ As a Front-end developer, I developed myself. I have a good understanding of Bac
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+![](https://github-readme-stats.vercel.app/api?username=BayezidMostafa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BayezidMostafa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BayezidMostafa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
